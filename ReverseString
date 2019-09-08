@@ -2,7 +2,6 @@
  * 344. Reverse String
  * Author: Tomiris
  * Date:2019-09-09
- * Language: Java
  */
  
 class Solution {
