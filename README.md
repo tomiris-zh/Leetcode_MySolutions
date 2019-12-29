@@ -1,1 +1,1 @@
-# Leetcode_Marathon_ACM-W
+# Leetcode_MySolutions
